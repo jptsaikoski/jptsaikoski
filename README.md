@@ -10,7 +10,7 @@ Meu momento atual é de aprendizado. Porém, sempre buscando oportunidades profi
 ##
 
 <div align="">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/jptsaikoski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jptsaikoski&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptsaikoski&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
 </div>
