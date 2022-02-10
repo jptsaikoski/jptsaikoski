@@ -1,6 +1,6 @@
 ## Opa, me chama de Pedro! 
 
-### Basicamente eu sou o que chamam de "nerdola". Adquiri o vício por computação logo aos 6 anos de idade, aos 8 comecei a me interessar por Design e aos 9 me tornei um magnata do Club Penguim. Algum tempo depois surgiu o interesse pela programação. Minha paixão de verdade é o Front-end, e é isso que tenho estudado arduamente nos últimos tempos.
+### Basicamente eu sou o significado da palavra "nerd". Adquiri o vício por computação logo aos 6 anos de idade, aos 8 comecei a me interessar por Design e aos 9 me tornei um magnata do Club Penguim. Algum tempo depois surgiu o interesse pela programação. Minha paixão de verdade é o Front-end, e é isso que tenho estudado arduamente nos últimos tempos.
 
 -Me aprofundando em HTML, CSS, Javascript, Next JS e React; <br>
 -Outras habilidades são em Design Gráfico e Design de UI;
